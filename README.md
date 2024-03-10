@@ -5,6 +5,5 @@
 - 📫 How to reach me here, is my email id (gehlotpramod684@gmail.com)
 
 <!---
-pramodgehloth/pramodgehloth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+pramodgehloth/pramodgehloth is a ✨ special ✨ 
 --->
